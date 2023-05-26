@@ -8,7 +8,8 @@ package com.atxbai.git.controller;
 public class userController {
     public static void main(String[] args) {
         System.out.println("hello.git");
-        System.out.println("测试提交");
+        System.out.println("测试提交2");
         System.out.println("测试提交3");
+        System.out.println("hot-fix 修复代码");
     }
 }

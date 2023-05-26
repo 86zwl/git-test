@@ -17,5 +17,6 @@ public class userController {
         System.out.println("hot-fix-v3 修改代码");
         System.out.println("hot-fix-v4 修改代码");
         System.out.println("测试pull 操作!");
+        System.out.println("gitee 测试");
     }
 }

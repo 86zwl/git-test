@@ -12,5 +12,6 @@ public class userController {
         System.out.println("测试提交3");
         System.out.println("hot-fix 修复代码");
         System.out.println("hot-fix-v2 修改代码");
+        System.out.println("push test 测试");
     }
 }
